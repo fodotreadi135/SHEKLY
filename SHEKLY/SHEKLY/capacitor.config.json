@@ -1,6 +1,0 @@
-{
-  "appId": "com.shekly.app",
-  "appName": "Shekly Escrow",
-  "webDir": "dist",
-  "bundledWebRuntime": false
-}
